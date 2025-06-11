@@ -1,0 +1,4 @@
+pip install pandas numpy scikit-learn tensorflow keras torch matplotlib seaborn flask django 
+
+(tải pycharm tạo file đặt tên file .py ,mở vào mục terminal copy lệnh này vô đây là lệnh cài đặt thư viện)
+***chú ý là mọi người nên cài bản python 3.10
