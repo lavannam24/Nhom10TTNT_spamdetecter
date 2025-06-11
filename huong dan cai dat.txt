@@ -4,3 +4,4 @@ pip install pandas numpy scikit-learn tensorflow keras torch matplotlib seaborn 
 ***chú ý là mọi người nên cài bản python 3.10
 thư mục testTraining_spam.csv là thư mục chứa các tệp tin giúp huấn luyện AI tải và đặt chung thư mục với thư mục code
 
+file luutientrinhtrainning.pkl có thể tải hoặc không đều được vì đó là file lưu huấn luyện cho AI mỗi lần mà code tự động tạo cho mình rồi
